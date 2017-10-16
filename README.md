@@ -1,2 +1,2 @@
 # skulls.base
-This is base project based in Codeigniter
+This is a base project based in Codeigniter
